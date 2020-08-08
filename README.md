@@ -5,7 +5,7 @@ Home: https://github.com/henry0312/pytest-codestyle
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A pycodestyle plugin for pytest
 
